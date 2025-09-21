@@ -1,0 +1,7 @@
+name: simple-todo-fastapi
+dependencies:
+  - python=3.9
+  - fastapi
+  - uvicorn
+  - pip:
+      - pip install "fastapi[standard]"
