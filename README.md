@@ -13,7 +13,6 @@ A simple Todo application built with FastAPI for the backend and a frontend for 
 
 - **Backend**: FastAPI (Python)
 - **Frontend**: JavaScript, HTML, CSS
-- **Database**: (Jika ada, sebutkan di sini)
 
 ## Getting Started
 
