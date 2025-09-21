@@ -1,7 +1,17 @@
 name: simple-todo-fastapi
+channels:
+  - defaults
 dependencies:
-  - python=3.9
+  - python=3.10
   - fastapi
   - uvicorn
+  - sqlalchemy
+  - pydantic
+  - pandas
+  - numpy
+  - pip
   - pip:
-      - pip install "fastapi[standard]"
+      - aiofiles
+      - python-dotenv
+      - flake8
+      - pytest
